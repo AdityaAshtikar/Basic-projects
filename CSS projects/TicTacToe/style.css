@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+table {
+	margin: 0 auto 0 auto;
+}
+
+tr {
+	margin: 0;
+}
+
+td {
+	margin: 0;
+	
+	height: 100px;
+	width: 100px;
+}
+
+.second-td {
+	border-left: 1px solid red;
+	border-right: 1px solid red;
+}
+
+.third {
+	border-top: 1px solid red;
+	border-bottom: 1px solid red;
+}
